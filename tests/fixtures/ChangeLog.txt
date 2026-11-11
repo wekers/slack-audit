@@ -1,0 +1,15 @@
+Fri Nov  6 23:52:17 UTC 2026
+a/eudev-3.3.0-x86_64-2.txz:  Rebuilt.
+  Drop eudev.ignore_bind_unbind_events.diff patch.
+  This update fixes MTP behavior.
+n/httpd-2.4.70-x86_64-1.txz:  Upgraded.
+  This update fixes bugs and security issues.
+  For more information, see:
+    https://downloads.apache.org/httpd/CHANGES_2.4.70
+    https://www.cve.org/CVERecord?id=CVE-2026-12345
+  (* Security fix *)
++--------------------------+
+Thu Nov  5 20:00:00 UTC 2026
+n/openssl-3.5.3-x86_64-1.txz:  Upgraded.
+  Routine update.
++--------------------------+
